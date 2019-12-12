@@ -1,3 +1,5 @@
+<http://cafe114-client.s3-website.ap-northeast-2.amazonaws.com/><br>
+서비스 이용을 위해 로그인해주세요.
 
 # Cafe114 - Server
 
